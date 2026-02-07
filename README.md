@@ -1,87 +1,87 @@
-# Hi 👋 I'm Lavanya U  
-
-🎓 BE Computer Science (Data Science) Student | 3rd Year  
-📍 Moodlakatte Institute of Technology & Management, Kundapura  
-🚀 Aspiring **Data Analyst & Full Stack Developer** with AI/ML expertise  
+<h1 align="center">Hi 👋, I'm Lavanya U</h1>
+<h3 align="center">🚀 Data Analyst | Full Stack Developer | AI/ML Enthusiast</h3>
 
 ---
 
-## 🌟 About Me  
+## 🌸 About Me  
 
-I am a motivated and passionate **Data Analyst & Full Stack Developer** skilled in building data-driven applications, performing exploratory data analysis, and integrating AI/ML solutions into real-world projects.  
-
-I enjoy solving problems through **analytics, visualization, and scalable web development**.  
-
-🎯 **Goal:** To secure an internship or role where I can contribute with my skills in **Data Science, Full Stack Development, and AI/ML**.
+🎓 BE Computer Science (Data Science) Student (3rd Year)  
+🏫 Moodlakatte Institute of Technology & Management, Kundapura  
+💡 Passionate about **Data Analytics, Full Stack Development, and AI/ML Integration**  
+🎯 Goal: To build impactful real-world solutions through data-driven systems  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Tech Stack  
 
-### 💻 Programming Languages  
-- C  
-- Python  
-- Java  
-- SQL  
-- JavaScript  
+### 💻 Languages  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-### 📚 Frameworks & Libraries  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- TensorFlow (AI/ML)  
-- Flask  
-- FastAPI  
-- ReactJS  
-
-### 🗄️ Databases  
-- MongoDB  
+### ⚙️ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
 
 ### 📊 Data Analytics Tools  
-- Excel  
-- Power BI  
-- Tableau  
+![Excel](https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge&logo=microsoft-excel)
+![PowerBI](https://img.shields.io/badge/PowerBI-gold?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
 
-### ⚙️ Tools & Platforms  
-- Git & GitHub  
-- Firebase  
-- Docker  
-- Agile Methodology  
-
----
-
-## 🚀 Projects  
-
-### 🔹 Hate Speech Detection (ML + NLP)  
-- Built an NLP-based machine learning model to detect and classify hate speech.  
-- Implemented preprocessing, feature extraction, and classification algorithms.  
-
-### 🔹 Exploratory Data Analysis (EDA)  
-- Performed detailed EDA to uncover patterns, trends, and insights.  
-- Visualized datasets using Pandas and Matplotlib.  
-
-### 🔹 PlasticSenseAI  
-- Developed an AI-driven solution to analyze plastic usage data.  
-- Generated sustainability-focused environmental insights.  
+### 🗄️ Tools & Platforms  
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
 ---
 
-## 📜 Certifications & Achievements  
+## 🚀 Featured Projects  
 
-🏆 Academic Topper of the Department  
-✅ Internship Completion Certificate — 1Stop.ai  
-✅ Project Completion Certificate  
-✅ Udemy Course Certificate  
-🎭 Active participation in technical & non-technical events  
+✨ **Hate Speech Detection (ML + NLP)**  
+- Built an NLP-based ML model to classify hate speech  
+- Used preprocessing + feature extraction + evaluation  
+
+✨ **Exploratory Data Analysis (EDA)**  
+- Performed detailed analysis and visualizations using Python  
+- Identified trends, insights, and patterns  
+
+✨ **PlasticSenseAI**  
+- AI-driven project for plastic usage analysis  
+- Focused on sustainability and environmental insights  
+
+---
+
+## 🏆 Certifications & Achievements  
+
+🏅 Academic Topper of Department  
+📜 Internship Completion Certificate — 1Stop.ai  
+📜 Project Completion Certificate  
+📜 Udemy Course Certificate  
+🎭 Participated in multiple technical & non-technical events  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lavulavanya08&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavulavanya08&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me  
 
-📧 Email: lavanyadevanga26@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/lavanya-u-849688292 
-🐙 GitHub: https://github.com/Lavulavanya08
+📧 Email: **lavanyadevanga26@email.com**  
+💼 LinkedIn: www.linkedin.com/in/lavanya-u-849688292
+🌐 Portfolio: Coming Soon 🚀  
 
 ---
 
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ *Thanks for visiting my profile! Feel free to connect and explore my repositories.*
