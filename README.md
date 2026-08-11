@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavanya U</h1>
-<h3 align="center">🚀 Data Analyst | Full Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center">🚀 Data Analyst |  AI/ML Enthusiast</h3>
 
 ---
 
